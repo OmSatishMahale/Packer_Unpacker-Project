@@ -61,7 +61,3 @@ Basics of encryption & decryption logic
 ## Contributing
 
 Contributions are welcome. Feel free to fork the repo and improve the functionality.
-
-⭐ Support
-
-If you found this project useful, give it a ⭐ on GitHub.
